@@ -1,0 +1,4 @@
+D:/test/dlib-19.7/Build_Win/CMakeFiles/dlib.dir
+D:/test/dlib-19.7/Build_Win/CMakeFiles/INSTALL.dir
+D:/test/dlib-19.7/Build_Win/CMakeFiles/ALL_BUILD.dir
+D:/test/dlib-19.7/Build_Win/CMakeFiles/ZERO_CHECK.dir

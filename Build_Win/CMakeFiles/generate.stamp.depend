@@ -1,0 +1,42 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.17/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindJPEG.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindPNG.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/WriteBasicConfigVersionFile.cmake
+D:/test/dlib-19.7/Build_Win/CMakeFiles/3.17.2/CMakeCCompiler.cmake
+D:/test/dlib-19.7/Build_Win/CMakeFiles/3.17.2/CMakeCXXCompiler.cmake
+D:/test/dlib-19.7/Build_Win/CMakeFiles/3.17.2/CMakeRCCompiler.cmake
+D:/test/dlib-19.7/Build_Win/CMakeFiles/3.17.2/CMakeSystem.cmake
+D:/test/dlib-19.7/dlib/CMakeLists.txt
+D:/test/dlib-19.7/dlib/cmake_utils/add_global_compiler_switch.cmake
+D:/test/dlib-19.7/dlib/cmake_utils/check_if_neon_available.cmake
+D:/test/dlib-19.7/dlib/cmake_utils/dlib.pc.in
+D:/test/dlib-19.7/dlib/cmake_utils/dlibConfig.cmake.in
+D:/test/dlib-19.7/dlib/cmake_utils/release_build_by_default
+D:/test/dlib-19.7/dlib/cmake_utils/use_cpp_11.cmake
+D:/test/dlib-19.7/dlib/config.h.in
+D:/test/dlib-19.7/dlib/revision.h.in
